@@ -1,2 +1,6 @@
+.ipynb_checkpoints
+input
+output
+download
 *.pyc
 *.swp
